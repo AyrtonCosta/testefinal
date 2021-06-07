@@ -1,7 +1,7 @@
 
 ## 🧪 Tecnologias
 
-Nesse projeto usei ReactJS e Axios para consumir a API, o projeto fiz com base em um desafio do curso da RocketSeat de consumir uma API, infelizmente não consegui adicionar todas funcionalidades mas valeu demais o desafio independete do resultado.
+Nesse projeto usei ReactJS e Axios para consumir a API.
 
 
 - [React](https://reactjs.org)
